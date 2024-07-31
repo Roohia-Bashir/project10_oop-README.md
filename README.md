@@ -1,4 +1,4 @@
-### University Management System
+## University Management System
 # Overview
 The University Management System is a command-line application developed in TypeScript for managing university courses, students, and instructors. This system allows users to interact with various aspects of university operations, including enrolling students in courses, viewing course details, and managing instructor assignments. The application leverages the inquirer package for interactive prompts, chalk for colorful terminal output, and figlet for styled text headings.
 
